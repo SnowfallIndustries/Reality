@@ -1,0 +1,9 @@
+#MarginServerDNSSuffix = "localhost"
+AuthServerDNSName = "localhost"
+#PatchServerDNSName = "localhost"
+PatchNotesURL = "http://localhost:8080/patchnotes.html"
+UseLaunchPad=0
+
+# Turning the matrix loading off (green lagin symbols)
+WR_MatrixView_Min_T = -1.0
+WR_MatrixView_Max_T = 0.0
